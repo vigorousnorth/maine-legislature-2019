@@ -1,0 +1,187 @@
+chamber,district,fullname,firstname,lastname,party,town
+House,1, Rep. Deane Rykerson (D - Kittery),Deane,Rykerson,D,Kittery
+House,2, Rep. Michele Meyer (D - Eliot),Michele,Meyer,D,Eliot
+House,3, Rep. Lydia C. Blume (D - York),Lydia C.,Blume,D,York
+House,4, Rep. Patricia Hymanson (D - York),Patricia,Hymanson,D,York
+House,5, Rep. Beth A. O'Connor (R - Berwick),Beth A.,O'Connor,R,Berwick
+House,6, Rep. Tiffany Roberts-Lovell (D - South Berwick),Tiffany,Roberts-Lovell,D,South Berwick
+House,7, Rep. Daniel J. Hobbs (D - Wells),Daniel J.,Hobbs,D,Wells
+House,8, Rep. Christopher W. Babbidge (D - Kennebunk),Christopher W.,Babbidge,D,Kennebunk
+House,9, Rep. Diane M. Denk (D - Kennebunk),Diane M.,Denk,D,Kennebunk
+House,10, Rep. Henry L. Ingwersen (D - Arundel),Henry L.,Ingwersen,D,Arundel
+House,11, Rep. Ryan M. Fecteau (D - Biddeford ),Ryan M.,Fecteau,D,Biddeford 
+House,12, Rep. Victoria Foley (D - Biddeford),Victoria,Foley,D,Biddeford
+House,13, Rep. Lori K. Gramlich (D - Old Orchard Beach),Lori K.,Gramlich,D,Old Orchard Beach
+House,14, Rep. Donna Bailey (D - Saco ),Donna,Bailey,D,Saco 
+House,15, Rep. Margaret M. O'Neil (D - Saco),Margaret M.,O'Neil,D,Saco
+House,16, Rep. Donald G. Marean (I - Hollis),Donald G.,Marean,I,Hollis
+House,17, Rep. Dwayne W. Prescott (R - Waterboro),Dwayne W.,Prescott,R,Waterboro
+House,18, Rep. Anne-Marie Mastraccio (D - Sanford),Anne-Marie,Mastraccio,D,Sanford
+House,19, Rep. Matthew A. Harrington (R - Sanford),Matthew A.,Harrington,R,Sanford
+House,20, Rep. Theodore Joseph Kryzak (R - Acton),Theodore Joseph,Kryzak,R,Acton
+House,21, Rep. Heidi H. Sampson (R - Alfred),Heidi H.,Sampson,R,Alfred
+House,22, Rep. Mark John Blier (R - Buxton),Mark John,Blier,R,Buxton
+House,23, Rep. Lester S. Ordway (R - Standish),Lester S.,Ordway,R,Standish
+House,24, Rep. Mark E. Bryant (D - Windham),Mark E.,Bryant,D,Windham
+House,25, Rep. Patrick W. Corey (R - Windham),Patrick W.,Corey,R,Windham
+House,26, Rep. Maureen Fitzgerald Terry (D - Gorham),Maureen Fitzgerald,Terry,D,Gorham
+House,27, Rep. Andrew J. McLean (D - Gorham),Andrew J.,McLean,D,Gorham
+House,28, Rep. Christopher James Caiazzo (D - Scarborough),Christopher James,Caiazzo,D,Scarborough
+House,29, Rep. Shawn A. Babine (D - Scarborough),Shawn A.,Babine,D,Scarborough
+House,30, Rep. Anne M. Carney (D - Cape Elizabeth),Anne M.,Carney,D,Cape Elizabeth
+House,31, Rep. Lois Galgay Reckitt (D - South Portland),Lois Galgay,Reckitt,D,South Portland
+House,32, Rep. Christopher J. Kessler (D - South Portland ),Christopher J.,Kessler,D,South Portland 
+House,33, Rep. Victoria E. Morales (D - South Portland),Victoria E.,Morales,D,South Portland
+House,34, Rep. Drew Gattine (D - Westbrook ),Drew,Gattine,D,Westbrook 
+House,35, Rep. Ann E. Peoples (D - Westbrook),Ann E.,Peoples,D,Westbrook
+House,36, Rep. Michael F. Brennan (D - Portland),Michael F.,Brennan,D,Portland
+House,37, Rep. Richard R. Farnsworth (D - Portland),Richard R.,Farnsworth,D,Portland
+House,38, Rep. Matt W. Moonen (D - Portland),Matt W.,Moonen,D,Portland
+House,39, Rep. Michael A. Sylvester (D - Portland),Michael A.,Sylvester,D,Portland
+House,40, Rep. Rachel Talbot Ross (D - Portland),Rachel Talbot,Ross,D,Portland
+House,41, Rep. Erik C. Jorgensen (D - Portland ),Erik C.,Jorgensen,D,Portland 
+House,42, Rep. Benjamin T. Collings (D - Portland),Benjamin T.,Collings,D,Portland
+House,43, Rep. W. Edward Crockett (D - Portland),W. Edward,Crockett,D,Portland
+House,44, Rep. Teresa S. Pierce (D - Falmouth),Teresa S.,Pierce,D,Falmouth
+House,45, Rep. Dale J. Denno (D - Cumberland),Dale J.,Denno,D,Cumberland
+House,46, Rep. Braden Sharpe (D - Durham),Braden,Sharpe,D,Durham
+House,47, Rep. Janice E. Cooper (D - Yarmouth),Janice E.,Cooper,D,Yarmouth
+House,48, Rep. Sara Gideon (D - Freeport),Sara,Gideon,D,Freeport
+House,49, Rep. Matthea Elisabeth Larsen Daughtry (D - Brunswick),Matthea Elisabeth Larsen,Daughtry,D,Brunswick
+House,50, Rep. Ralph L. Tucker (D - Brunswick),Ralph L.,Tucker,D,Brunswick
+House,51, Rep. Joyce McCreight (D - Harpswell),Joyce,McCreight,D,Harpswell
+House,52, Rep. Jennifer L. DeChant (D - Bath),Jennifer L.,DeChant,D,Bath
+House,53, Rep. Allison Hepler (D - Woolwich),Allison,Hepler,D,Woolwich
+House,54, Rep. Denise A. Tepler (D - Topsham),Denise A.,Tepler,D,Topsham
+House,55, Rep. Seth A. Berry (D - Bowdoinham),Seth A.,Berry,D,Bowdoinham
+House,56, Rep. Richard G. Mason (R - Lisbon),Richard G.,Mason,R,Lisbon
+House,57, Rep. Thomas H. Martin (R - Greene),Thomas H.,Martin,R,Greene
+House,58, Rep. James R. Handy (D - Lewiston),James R.,Handy,D,Lewiston
+House,59, Rep. Margaret Craven (D - Lewiston),Margaret,Craven,D,Lewiston
+House,60, Rep. Kristen Sarah Cloutier (D - Lewiston),Kristen Sarah,Cloutier,D,Lewiston
+House,61, Rep. Heidi E. Brooks (D - Lewiston),Heidi E.,Brooks,D,Lewiston
+House,62, Rep. Gina M. Melaragno (D - Auburn),Gina M.,Melaragno,D,Auburn
+House,63, Rep. Bruce A. Bickford (R - Auburn),Bruce A.,Bickford,R,Auburn
+House,64, Rep. Bettyann W. Sheats (D - Auburn),Bettyann W.,Sheats,D,Auburn
+House,65, Rep. Amy Bradstreet Arata (R - New Gloucester),Amy Bradstreet,Arata,R,New Gloucester
+House,66, Rep. Jessica L. Fay (D - Raymond),Jessica L.,Fay,D,Raymond
+House,67, Rep. Susan M. W. Austin (R - Gray),Susan M. W.,Austin,R,Gray
+House,68, Rep. Richard M. Cebra (R - Naples),Richard M.,Cebra,R,Naples
+House,69, Rep. Walter N. Riseman (I - Harrison),Walter N.,Riseman,I,Harrison
+House,70, Rep. Nathan J. Wadsworth (R - Hiram),Nathan J.,Wadsworth,R,Hiram
+House,71, Rep. H. Sawin Millett (R - Waterford),H. Sawin,Millett,R,Waterford
+House,72, House Republican Leader Kathleen R. J. Dillingham (R - Oxford),Kathleen R. J.,Dillingham,R,Oxford
+House,73, Rep. John Andrews (R - Paris),John,Andrews,R,Paris
+House,74, Rep. Christina Riley (D - Jay),Christina,Riley,D,Jay
+House,75, Rep. Joshua Morris (R - Turner),Joshua,Morris,R,Turner
+House,76, Rep. Dennis L. Keschl (R - Belgrade ),Dennis L.,Keschl,R,Belgrade 
+House,77, Rep. Michael D. Perkins (R - Oakland),Michael D.,Perkins,R,Oakland
+House,78, Rep. Catherine M. Nadeau (D - Winslow),Catherine M.,Nadeau,D,Winslow
+House,79, Rep. Timothy S. Theriault (R - China),Timothy S.,Theriault,R,China
+House,80, Rep. Richard T. Bradstreet (R - Vassalboro),Richard T.,Bradstreet,R,Vassalboro
+House,81, Rep. Craig V. Hickman (D - Winthrop),Craig V.,Hickman,D,Winthrop
+House,82, Rep. Kent Ackley (C - Monmouth),Kent,Ackley,C,Monmouth
+House,83, Rep. Thom Harnett (D - Gardiner),Thom,Harnett,D,Gardiner
+House,84, Rep. Charlotte Warren (D - Hallowell),Charlotte,Warren,D,Hallowell
+House,85, Rep. Donna R. Doore (D - Augusta),Donna R.,Doore,D,Augusta
+House,86, Rep. Justin Fecteau (R - Augusta),Justin,Fecteau,R,Augusta
+House,87, Rep. Jeffery P. Hanley (R - Pittston),Jeffery P.,Hanley,R,Pittston
+House,88, Rep. Chloe S. Maxmin (D - Nobleboro),Chloe S.,Maxmin,D,Nobleboro
+House,89, Rep. Holly B. Stover (D - Boothbay),Holly B.,Stover,D,Boothbay
+House,90, Rep. Michael G. Devin (D - Newcastle),Michael G.,Devin,D,Newcastle
+House,91, Rep. Jeffrey Evangelos (I - Friendship),Jeffrey,Evangelos,I,Friendship
+House,92, Rep. Ann Higgins Matlack (D - St. George ),Ann Higgins,Matlack,D,St. George 
+House,93, Rep. Pinny Beebe-Center (D - Rockland),Pinny,Beebe-Center,D,Rockland
+House,94, Rep. Victoria W. Doudera (D - Camden),Victoria W.,Doudera,D,Camden
+House,95, Rep. William D. Pluecker (I - Warren),William D.,Pluecker,I,Warren
+House,96, Rep. Stanley Paige Zeigler (D - Montville),Stanley Paige,Zeigler,D,Montville
+House,97, Rep. Janice S. Dodge (D - Belfast),Janice S.,Dodge,D,Belfast
+House,98, Rep. Scott W. Cuddy (D - Winterport),Scott W.,Cuddy,D,Winterport
+House,99, Rep. MaryAnne Kinney (R - Knox ),MaryAnne,Kinney,R,Knox 
+House,100, Rep. Danny Edward Costain (R - Plymouth),Danny Edward,Costain,R,Plymouth
+House,101, Rep. David G. Haggan (R - Hampden),David G.,Haggan,R,Hampden
+House,102, Rep. Abigail W. Griffin (R - Levant),Abigail W.,Griffin,R,Levant
+House,103, Rep. Roger E. Reed (R - Carmel),Roger E.,Reed,R,Carmel
+House,104, Rep. Steven D. Foster (R - Dexter),Steven D.,Foster,R,Dexter
+House,105, Rep. Joel R. Stetkis (R - Canaan),Joel R.,Stetkis,R,Canaan
+House,106, Rep. Scott Walter Strom (R - Pittsfield),Scott Walter,Strom,R,Pittsfield
+House,107, Rep. Betty A. Austin (D - Skowhegan),Betty A.,Austin,D,Skowhegan
+House,108, Rep. Shelley Rudnicki (R - Fairfield),Shelley,Rudnicki,R,Fairfield
+House,109, Rep. Bruce A. White (D - Waterville),Bruce A.,White,D,Waterville
+House,110, Rep. Colleen M. Madigan (D - Waterville ),Colleen M.,Madigan,D,Waterville 
+House,111, Rep. Philip A. Curtis (R - Madison),Philip A.,Curtis,R,Madison
+House,112, Rep. Thomas H. Skolfield (R - Weld),Thomas H.,Skolfield,R,Weld
+House,113, Rep. H. Scott Landry (D - Farmington),H. Scott,Landry,D,Farmington
+House,114, Rep. Randall C. Hall (R - Wilton),Randall C.,Hall,R,Wilton
+House,115, Rep. Josanne C. Dolloff (R - Rumford),Josanne C.,Dolloff,R,Rumford
+House,116, Rep. Richard A. Pickett (R - Dixfield),Richard A.,Pickett,R,Dixfield
+House,117, Rep. Frances M. Head (R - Bethel ),Frances M.,Head,R,Bethel 
+House,118, Rep. Chad Wayne Grignon (R - Athens ),Chad Wayne,Grignon,R,Athens 
+House,119, Rep. Paul A. Stearns (R - Guilford),Paul A.,Stearns,R,Guilford
+House,120, Rep. Norman E. Higgins (I - Dover-Foxcroft),Norman E.,Higgins,I,Dover-Foxcroft
+House,121, Rep. Gary A. Drinkwater (R - Milford),Gary A.,Drinkwater,R,Milford
+House,122, Rep. Michelle Dunphy (D - Old Town),Michelle,Dunphy,D,Old Town
+House,123, Rep. Ryan Tipping (D - Orono),Ryan,Tipping,D,Orono
+House,125, Rep. Victoria P. Kornfield (D - Bangor ),Victoria P.,Kornfield,D,Bangor 
+House,126, Rep. John C. Schneck (D - Bangor),John C.,Schneck,D,Bangor
+House,127, Rep. Barbara A. Cardone (D - Bangor),Barbara A.,Cardone,D,Bangor
+House,128, Rep. Arthur C. Verow (D - Brewer),Arthur C.,Verow,D,Brewer
+House,129, Rep. Peter A. Lyford (R - Eddington),Peter A.,Lyford,R,Eddington
+House,130, Rep. Richard H. Campbell (R - Orrington),Richard H.,Campbell,R,Orrington
+House,131, Rep. Sherman H. Hutchins (R - Penobscot),Sherman H.,Hutchins,R,Penobscot
+House,132, Rep. Nicole Grohoski (D - Ellsworth ),Nicole,Grohoski,D,Ellsworth 
+House,133, Rep. Sarah Pebworth (D - Blue Hill),Sarah,Pebworth,D,Blue Hill
+House,134, Rep. Genevieve McDonald (D - Stonington),Genevieve,McDonald,D,Stonington
+House,135, Rep. Brian L. Hubbell (D - Bar Harbor ),Brian L.,Hubbell,D,Bar Harbor 
+House,136, Rep. Billy Bob Faulkingham (R - Winter Harbor),Billy Bob,Faulkingham,R,Winter Harbor
+House,137, Rep. Lawrence E. Lockman (R - Amherst),Lawrence E.,Lockman,R,Amherst
+House,138, Rep. Robert W. Alley (D - Beals),Robert W.,Alley,D,Beals
+House,139, Rep. William R. Tuell (R - East Machias),William R.,Tuell,R,East Machias
+House,140, Rep. Anne C. Perry (D - Calais),Anne C.,Perry,D,Calais
+House,141, Rep. Kathy Irene Javner (R - Chester),Kathy Irene,Javner,R,Chester
+House,142, Rep. Sheldon Mark Hanington (R - Lincoln ),Sheldon Mark,Hanington,R,Lincoln 
+House,143, Rep. Stephen S. Stanley (D - Medway),Stephen S.,Stanley,D,Medway
+House,144, Rep. Gregory Lewis Swallow (R - Houlton),Gregory Lewis,Swallow,R,Houlton
+House,145, Rep. Chris A. Johansen (R - Monticello),Chris A.,Johansen,R,Monticello
+House,146, Rep. Dustin Michael White (R - Washburn),Dustin Michael,White,R,Washburn
+House,147, Assistant Minority Leader Harold Trey L. Stewart (R - Presque Isle),Trey,Stewart,R,Presque Isle
+House,148, Rep. David Harold McCrea (D - Fort Fairfield),David Harold,McCrea,D,Fort Fairfield
+House,149, Rep. John DeVeau (R - Caribou),John,DeVeau,R,Caribou
+House,150, Rep. Roland Danny Martin (D - Sinclair),Roland Danny,Martin,D,Sinclair
+House,151, Rep. John L. Martin (D - Eagle Lake),John,Martin,D,Eagle Lake
+House,, Rep. Rena D. Newell (Tribal Member),Rena,Newell,,
+Senate,1,Sen. Troy Jackson (D - Aroostook),Troy,Jackson,D,Aroostook
+Senate,2,Sen. Michael Carpenter (D - Aroostook),Michael,Carpenter,D,Aroostook
+Senate,3,Sen. Bradlee Farrin (R - Somerset),Bradlee,Farrin,R,Somerset
+Senate,4,Sen. Paul Davis (R - Piscataquis),Paul,Davis,R,Piscataquis
+Senate,5,Sen. James Dill (D - Penobscot),James,Dill,D,Penobscot
+Senate,6,Sen. Marianne Moore (R - Washington),Marianne,Moore,R,Washington
+Senate,7,Sen. Louis Luchini (D - Hancock),Louis,Luchini,D,Hancock
+Senate,8,Sen. Kimberley Rosen (R - Hancock),Kimberley,Rosen,R,Hancock
+Senate,9,Sen. Geoffrey Gratwick (D - Penobscot),Geoffrey,Gratwick,D,Penobscot
+Senate,10,Sen. Stacey Guerin (R - Penobscot),Stacey,Guerin,R,Penobscot
+Senate,11,Sen. Erin Herbig (D - Waldo),Erin,Herbig,D,Waldo
+Senate,12,Sen. David Miramant (D - Knox),David,Miramant,D,Knox
+Senate,13,Sen. Dana Dow (R - Lincoln),Dana,Dow,R,Lincoln
+Senate,14,Sen. Shenna Bellows (D - Kennebec),Shenna,Bellows,D,Kennebec
+Senate,15,Sen. Matthew Pouliot (R - Kennebec),Matthew,Pouliot,R,Kennebec
+Senate,16,Sen. Scott Cyrway (R - Kennebec),Scott,Cyrway,R,Kennebec
+Senate,17,Sen. Russell Black (R - Franklin),Russell,Black,R,Franklin
+Senate,18,Sen. Lisa Keim (R - Oxford),Lisa,Keim,R,Oxford
+Senate,19,Sen. James Hamper (R - Oxford),James,Hamper,R,Oxford
+Senate,20,Sen. Ned Claxton (D - Androscoggin),Ned,Claxton,D,Androscoggin
+Senate,21,Sen. Nathan Libby (D - Androscoggin),Nathan,Libby,D,Androscoggin
+Senate,22,Sen. Jeffrey Timberlake (R - Androscoggin),Jeffrey,Timberlake,R,Androscoggin
+Senate,23,Sen. Eloise Vitelli (D - Sagadahoc),Eloise,Vitelli,D,Sagadahoc
+Senate,24,Sen. Brownie Carson (D - Cumberland),Brownie,Carson,D,Cumberland
+Senate,25,Sen. Catherine Breen (D - Cumberland),Catherine,Breen,D,Cumberland
+Senate,26,Sen. Bill Diamond (D - Cumberland),Bill,Diamond,D,Cumberland
+Senate,27,Sen. Benjamin Chipman (D - Cumberland),Benjamin,Chipman,D,Cumberland
+Senate,28,Sen. Heather Sanborn (D - Cumberland),Heather,Sanborn,D,Cumberland
+Senate,29,Sen. Rebecca Millett (D - Cumberland),Rebecca,Millett,D,Cumberland
+Senate,30,Sen. Linda Sanborn (D - Cumberland),Linda,Sanborn,D,Cumberland
+Senate,31,Sen. Justin Chenette (D - York),Justin,Chenette,D,York
+Senate,32,Sen. Susan Deschambault (D - York),Susan,Deschambault,D,York
+Senate,33,Sen. David Woodsome (R - York),David,Woodsome,R,York
+Senate,34,Sen. Robert Foley (R - York),Robert,Foley,R,York
+Senate,35,Sen. Mark Lawrence (D - York),Mark,Lawrence,D,York
